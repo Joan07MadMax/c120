@@ -1,0 +1,47 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 10px 10px 10px rgb(53, 31, 255);
+}
+.heading_div
+{
+    float: none;
+    background: rgb(255, 166, 0);
+    color: aquamarine;
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow:6px 6px 6px rgb(102, 187, 76);
+}
+.heading_div2
+{
+    font-size: 18px;
+}
+.result_for_tag
+{
+    box-shadow: 5px 5px 5px rgb(49, 49, 49);
+    font-size: 20px;
+}
+.result_for_tag_span
+{
+    white-space: pre-line;
+}
+.copy_right_footer
+{
+    position: fixed;
+    color: aqua;
+    background-color: blue;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+}
+canvas
+{
+    border: 3px solid white;
+    border-radius: 15px;
+    box-shadow: 7px 7px 7px green;
+    margin-top: 170px;
+    
+}
